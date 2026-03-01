@@ -244,6 +244,12 @@ for app in "${apps[@]}"; do
     fi
 done
 
+# ============================================================================
+# PART 4: INSTALL FONT
+# ============================================================================
+
+yay -Sy ttf-jetbrains-mono-nerd
+
 # Symlink home dotfiles
 HOME_DOTFILES=(".zshrc" ".p10k.zsh" ".bashrc")
 for file in "${HOME_DOTFILES[@]}"; do
