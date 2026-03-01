@@ -84,6 +84,7 @@ PACMAN_PACKAGES=(
     "swaync"         # Notification daemon
     "man"            # Manual pages
     "xdg-user-dirs"  # User directories management
+    "zsh" 		#Zshell
 )
 
 # Array of packages to install via yay (AUR)
