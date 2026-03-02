@@ -2,7 +2,7 @@
   "position": "top",
   "margin-top": 10,
   "margin-left": 5,
-  "margin-right": 15,
+  "margin-right": 16,
 
   "modules-left": ["clock", "hyprland/workspaces"],
   "modules-center": ["tray"],

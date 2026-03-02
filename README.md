@@ -1,8 +1,9 @@
 ## Installation
 
-run the install script 
+run the install and symlink script
 
 ```bash
 ./install.sh
-```
 
+./symlink.sh
+```
