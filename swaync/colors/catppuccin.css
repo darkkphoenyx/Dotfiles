@@ -1,0 +1,41 @@
+/* ONE DARK */
+/* @define-color bg0 #282c34;
+@define-color bg1 #21252b;
+@define-color bg2 #2c313a;
+@define-color bg3 #3e4451;
+@define-color bg4 #4b5263;
+
+@define-color red #e08c75;
+@define-color orange #d19a66;
+@define-color yellow #e5c07b;
+@define-color green #98c379;
+@define-color aqua #56b6c2;
+@define-color blue #61afef;
+@define-color purple #c678dd;
+
+@define-color fg #abb2bf;
+
+@define-color grey0 #5c6370;
+@define-color grey1 #828997;
+@define-color grey2 #abb2bf; */
+
+/* CATPPUCCIN */
+@define-color bg0 #1E1D2F;
+@define-color bg1 #181825;
+@define-color bg2 #282839;
+@define-color bg3 #313244;
+@define-color bg4 #45475A;
+
+@define-color red    #F28FAD;
+@define-color orange #F8BD96;
+@define-color yellow #FAE3B0;
+@define-color green  #ABE9B3;
+@define-color aqua   #89DCEB;
+@define-color blue   #7AA2F7;
+@define-color purple #CBA6F7;
+
+@define-color fg #D9E0EE;
+
+@define-color grey0 #6E6C7E;
+@define-color grey1 #988BA2;
+@define-color grey2 #D9E0EE;

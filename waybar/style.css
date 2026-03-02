@@ -3,8 +3,8 @@
 * {
     border: none;
     border-radius: 0px;
-    font-family: "Adwaita Sans", "JetBrainsMono Nerd Font Mono";
-    font-size: 16px;
+    font-family: "Adwaita Sans", "JetBrainsMono Nerd Font";
+    font-size: 15px;
     font-weight: 600;
     min-height: 0;
 }
@@ -32,7 +32,7 @@ tooltip {
     padding: 0px 6px;
     margin: 0px 3px;
     border-radius: 50px;
-    color: @grey1;
+    color: @blue;
     background-color: @bg1;
     transition: all 0.3s ease-in-out;
 }
@@ -80,6 +80,7 @@ tooltip {
 
 #custom-notification {
     color: @red;
+    font-family: "JetBrainsMono Nerd Font Mono";
 }
 
 #pulseaudio {
