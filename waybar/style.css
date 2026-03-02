@@ -79,7 +79,7 @@ tooltip {
 }
 
 #custom-notification {
-    color: @fg;
+    color: @red;
 }
 
 #pulseaudio {

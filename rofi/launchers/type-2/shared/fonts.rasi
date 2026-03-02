@@ -2,11 +2,11 @@
  *
  * Author : Aditya Shakya (adi1090x)
  * Github : @adi1090x
- * 
+ *
  * Fonts
  *
  **/
 
 * {
-    font: "JetBrainsMono Nerd Font Propo 11";
+    font: "JetBrainsMono Nerd Font Propo 12";
 }
